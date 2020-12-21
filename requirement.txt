@@ -1,0 +1,3 @@
+pycparser==2.19
+PyQt5==5.12.1
+PyQt5-sip==4.19.15
